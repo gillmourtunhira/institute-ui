@@ -1,0 +1,28 @@
+{
+  "name": "institute-ui",
+  "version": "1.0.0",
+  "description": "ui desing for custom wp theme",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gillmourtunhira/institute-ui.git"
+  },
+  "author": "Gillmour Tunhira",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gillmourtunhira/institute-ui/issues"
+  },
+  "homepage": "https://github.com/gillmourtunhira/institute-ui#readme",
+  "devDependencies": {
+    "@snowpack/plugin-svelte": "^3.7.0",
+    "snowpack": "^3.8.2"
+  },
+  "dependencies": {
+    "svelte": "^3.38.3",
+    "svelte-routing": "^1.6.0"
+  }
+}
